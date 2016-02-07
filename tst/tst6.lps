@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="127">
+      <Unit0>
+        <Filename Value="tst6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="186"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="tstu6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DfmTstu6"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="596"/>
+        <CursorPos Y="634"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="-1"/>
+          <TopLine Value="561"/>
+          <CursorPos Y="602"/>
+        </ExtraEditor1>
+        <UsageCount Value="186"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../dmw/idib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="90"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <CursorPos X="7" Y="7"/>
+        </ExtraEditor1>
+        <UsageCount Value="137"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="xdib32.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="137"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="xdibcv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="56" Y="52"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="1008"/>
+          <CursorPos X="25" Y="1015"/>
+        </ExtraEditor1>
+        <UsageCount Value="137"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../dmw/ipens.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="21"/>
+        <CursorPos X="12" Y="23"/>
+        <UsageCount Value="125"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../dmw/xdibx.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="10" Y="17"/>
+        <UsageCount Value="95"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../dmd/xinputs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="6" Y="24"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../dmd/xwin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="33" Y="24"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib/lazarus/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <TopLine Value="1204"/>
+        <CursorPos X="15" Y="1204"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../dmd/cardbox.pas"/>
+        <TopLine Value="358"/>
+        <CursorPos X="58" Y="385"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <CursorPos X="7" Y="101"/>
+        </ExtraEditor1>
+        <UsageCount Value="33"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="9343"/>
+        <CursorPos Y="9373"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="5671"/>
+          <CursorPos Y="5701"/>
+        </ExtraEditor1>
+        <UsageCount Value="76"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../dmd/xcards.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1564"/>
+        <CursorPos Y="1593"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="3422"/>
+          <CursorPos X="74" Y="3474"/>
+        </ExtraEditor1>
+        <UsageCount Value="62"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../dmw/xdib.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="477"/>
+        <CursorPos Y="506"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="812"/>
+          <CursorPos Y="818"/>
+        </ExtraEditor1>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../dmw/xintf2.pas"/>
+        <CursorPos X="18" Y="7"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="35"/>
+          <CursorPos X="15" Y="60"/>
+        </ExtraEditor1>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../dmd/xmovie.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="217"/>
+        <CursorPos X="49" Y="236"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="283"/>
+          <CursorPos X="37" Y="311"/>
+        </ExtraEditor1>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../dmw/xclasses.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="739"/>
+        <CursorPos X="35" Y="767"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../dmw/xintf.pas"/>
+        <TopLine Value="313"/>
+        <CursorPos X="41" Y="314"/>
+        <UsageCount Value="18"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../dmd/xcursors.pas"/>
+        <CursorPos X="39" Y="34"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/lib/lazarus/lcl/include/icon.inc"/>
+        <TopLine Value="673"/>
+        <CursorPos Y="694"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../dmw/dmw_prj.pas"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="2621"/>
+        <CursorPos Y="2645"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/lib/lazarus/lcl/include/custombitmap.inc"/>
+        <TopLine Value="469"/>
+        <CursorPos Y="506"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/usr/lib/lazarus/lcl/include/rasterimage.inc"/>
+        <TopLine Value="804"/>
+        <CursorPos Y="830"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="../dmw/xmask.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1168"/>
+        <CursorPos X="24" Y="1209"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="1023"/>
+          <CursorPos Y="1061"/>
+        </ExtraEditor1>
+        <UsageCount Value="61"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="../dmw/xddw.pas"/>
+        <TopLine Value="734"/>
+        <CursorPos X="29" Y="762"/>
+        <UsageCount Value="27"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="../dmw/dmx_draw.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="213"/>
+        <CursorPos Y="245"/>
+        <UsageCount Value="26"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/lib/lazarus/lcl/include/customform.inc"/>
+        <TopLine Value="965"/>
+        <CursorPos Y="987"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/usr/lib/lazarus/lcl/lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <TopLine Value="30"/>
+        <CursorPos X="11" Y="58"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="/usr/lib/lazarus/lcl/include/winapi.inc"/>
+        <TopLine Value="31"/>
+        <CursorPos Y="52"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="../dmd/xfiles.pas"/>
+        <TopLine Value="286"/>
+        <CursorPos X="30" Y="300"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="255"/>
+          <CursorPos X="11" Y="281"/>
+        </ExtraEditor1>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="/usr/lib/lazarus/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="14"/>
+        <CursorPos Y="496"/>
+        <UsageCount Value="1"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/sysutils.pp"/>
+        <TopLine Value="324"/>
+        <CursorPos X="47" Y="360"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="../dmw/ofiles.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3971"/>
+        <CursorPos Y="4009"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="3023"/>
+          <CursorPos Y="3051"/>
+        </ExtraEditor1>
+        <UsageCount Value="19"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="../dmw/wstrings.pas"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="/usr/lib/lazarus/components/lazutils/lconvencoding.pas"/>
+        <UnitName Value="LConvEncoding"/>
+        <TopLine Value="4635"/>
+        <CursorPos Y="4655"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="/usr/share/fpcsrc/packages/iconvenc/src/iconvenc.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="12" Y="86"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="/usr/share/fpcsrc/packages/iconvenc/src/iconvert.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="70"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="../dmw/xvirts.pas"/>
+        <TopLine Value="633"/>
+        <CursorPos Y="660"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="../dmw/xrings.pas"/>
+        <TopLine Value="165"/>
+        <CursorPos Y="178"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="/usr/lib/lazarus/components/lazutils/fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <TopLine Value="13"/>
+        <CursorPos X="13" Y="239"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="../dmw/xdos.pas"/>
+        <TopLine Value="220"/>
+        <CursorPos Y="265"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="../dmw/convert.pas"/>
+        <TopLine Value="5642"/>
+        <CursorPos X="40" Y="5665"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="../dmw/dmx_dm.pas"/>
+        <TopLine Value="1071"/>
+        <CursorPos Y="1106"/>
+        <UsageCount Value="18"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="../dmw/dmw_dm.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4688"/>
+        <CursorPos X="3" Y="4711"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="../dmw/ogauss.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="891"/>
+        <CursorPos Y="936"/>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="../dmw/xpole.pas"/>
+        <TopLine Value="1375"/>
+        <CursorPos X="18" Y="1398"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="1557"/>
+          <CursorPos Y="1576"/>
+        </ExtraEditor1>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="../dmw/storage.pas"/>
+        <TopLine Value="152"/>
+        <CursorPos X="58" Y="160"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="../dmw/activeX.pas"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="6" Y="4"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/types.pp"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="228"/>
+        <CursorPos X="11" Y="259"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="/usr/lib/lazarus/lcl/include/canvas.inc"/>
+        <TopLine Value="1319"/>
+        <CursorPos Y="1346"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit49>
+      <Unit50>
+        <Filename Value="/usr/lib/lazarus/lcl/lresources.pp"/>
+        <UnitName Value="LResources"/>
+        <TopLine Value="450"/>
+        <CursorPos X="31" Y="3"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit50>
+      <Unit51>
+        <Filename Value="../dmd/dmx.lrs"/>
+        <TopLine Value="1807"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit51>
+      <Unit52>
+        <Filename Value="/usr/lib/lazarus/components/lazutils/unixfileutil.inc"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit52>
+      <Unit53>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/baseunix.pp"/>
+        <UnitName Value="BaseUnix"/>
+        <TopLine Value="50"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit53>
+      <Unit54>
+        <Filename Value="../dmw/dmw_obj.pas"/>
+        <TopLine Value="1313"/>
+        <CursorPos X="42" Y="1341"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit54>
+      <Unit55>
+        <Filename Value="../dmw/dmw_bln.pas"/>
+        <TopLine Value="1101"/>
+        <CursorPos Y="1145"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit55>
+      <Unit56>
+        <Filename Value="../dmw/dmw_fnt.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="2038"/>
+        <CursorPos Y="2070"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit56>
+      <Unit57>
+        <Filename Value="../dmw/dmw_vars.pas"/>
+        <TopLine Value="1791"/>
+        <CursorPos Y="1827"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit57>
+      <Unit58>
+        <Filename Value="../dmw/vbanks.pas"/>
+        <TopLine Value="95"/>
+        <CursorPos Y="132"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit58>
+      <Unit59>
+        <Filename Value="../dmw/dmw_vgm.pas"/>
+        <TopLine Value="1553"/>
+        <CursorPos X="45" Y="1581"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit59>
+      <Unit60>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/classes.pp"/>
+        <UnitName Value="Classes"/>
+        <CursorPos X="11" Y="36"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit60>
+      <Unit61>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <TopLine Value="84"/>
+        <CursorPos X="10" Y="120"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit61>
+      <Unit62>
+        <Filename Value="../dmw/oframes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="360"/>
+        <CursorPos X="26" Y="404"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit62>
+      <Unit63>
+        <Filename Value="../dmw/xbl_use.pas"/>
+        <TopLine Value="106"/>
+        <CursorPos Y="121"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit63>
+      <Unit64>
+        <Filename Value="/usr/lib/lazarus/lcl/include/pen.inc"/>
+        <TopLine Value="179"/>
+        <CursorPos Y="204"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit64>
+      <Unit65>
+        <Filename Value="/usr/lib/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <TopLine Value="13"/>
+        <CursorPos X="49" Y="23"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit65>
+      <Unit66>
+        <Filename Value="../dmw/otypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2501"/>
+        <CursorPos X="60" Y="2511"/>
+        <UsageCount Value="17"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit66>
+      <Unit67>
+        <Filename Value="../dmw/xdc.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="42"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit67>
+      <Unit68>
+        <Filename Value="../dmw/Windows.pas"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit68>
+      <Unit69>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpcanvas.pp"/>
+        <UnitName Value="FPCanvas"/>
+        <TopLine Value="80"/>
+        <CursorPos X="25" Y="112"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit69>
+      <Unit70>
+        <Filename Value="../dmw/xpens.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="856"/>
+        <CursorPos Y="904"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="936"/>
+          <CursorPos Y="972"/>
+        </ExtraEditor1>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit70>
+      <Unit71>
+        <Filename Value="../dmw/img_dll.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="348"/>
+        <CursorPos Y="378"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit71>
+      <Unit72>
+        <Filename Value="../dmd/cd_pcx.pas"/>
+        <TopLine Value="27"/>
+        <CursorPos X="9" Y="59"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit72>
+      <Unit73>
+        <Filename Value="../dmw/ximages.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="84"/>
+        <CursorPos Y="129"/>
+        <UsageCount Value="23"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit73>
+      <Unit74>
+        <Filename Value="../dmw/xdibcv.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="649"/>
+        <CursorPos X="29" Y="665"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="334"/>
+          <CursorPos X="30" Y="394"/>
+        </ExtraEditor1>
+        <UsageCount Value="36"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit74>
+      <Unit75>
+        <Filename Value="../dmw/xdib32.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="779"/>
+        <CursorPos Y="819"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="328"/>
+          <CursorPos X="19" Y="355"/>
+        </ExtraEditor1>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit75>
+      <Unit76>
+        <Filename Value="tstu3.pas"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="2"/>
+          <TopLine Value="57"/>
+          <CursorPos X="6" Y="66"/>
+        </ExtraEditor1>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit76>
+      <Unit77>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="145"/>
+        <CursorPos Y="173"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit77>
+      <Unit78>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="1872"/>
+        <CursorPos Y="1905"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit78>
+      <Unit79>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2winapi.inc"/>
+        <CursorPos X="37" Y="9"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit79>
+      <Unit80>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/rtl/unix/sysutils.pp"/>
+        <TopLine Value="1081"/>
+        <CursorPos X="28" Y="1126"/>
+        <UsageCount Value="9"/>
+      </Unit80>
+      <Unit81>
+        <Filename Value="../../temp/xbl_use.pas"/>
+        <TopLine Value="867"/>
+        <CursorPos Y="914"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit81>
+      <Unit82>
+        <Filename Value="../dmw/xutils.pas"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit82>
+      <Unit83>
+        <Filename Value="/usr/lib/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <TopLine Value="1232"/>
+        <CursorPos X="14" Y="1276"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit83>
+      <Unit84>
+        <Filename Value="/usr/lib/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <TopLine Value="361"/>
+        <CursorPos X="35" Y="19"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit84>
+      <Unit85>
+        <Filename Value="/usr/lib/lazarus/lcl/nonwin32/messages.pp"/>
+        <UnitName Value="Messages"/>
+        <TopLine Value="54"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit85>
+      <Unit86>
+        <Filename Value="/usr/lib/lazarus/lcl/lmessages.pp"/>
+        <UnitName Value="LMessages"/>
+        <TopLine Value="20"/>
+        <CursorPos X="16" Y="210"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit86>
+      <Unit87>
+        <Filename Value="/usr/lib/lazarus/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <CursorPos X="48" Y="22"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit87>
+      <Unit88>
+        <Filename Value="/usr/lib/lazarus/lcl/include/winapih.inc"/>
+        <TopLine Value="194"/>
+        <CursorPos X="15" Y="207"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit88>
+      <Unit89>
+        <Filename Value="../dmw/img_rel.pas"/>
+        <TopLine Value="2376"/>
+        <CursorPos X="53" Y="2392"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit89>
+      <Unit90>
+        <Filename Value="../dmw/img_glu.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos X="55" Y="137"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit90>
+      <Unit91>
+        <Filename Value="../dmd/use_util.pas"/>
+        <TopLine Value="36"/>
+        <CursorPos X="30" Y="63"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit91>
+      <Unit92>
+        <Filename Value="../dmw/tiff_x.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2629"/>
+        <CursorPos X="56" Y="2640"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit92>
+      <Unit93>
+        <Filename Value="../dmw/tiff_y.pas"/>
+        <TopLine Value="130"/>
+        <CursorPos X="14" Y="640"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit93>
+      <Unit94>
+        <Filename Value="../tiff_y.pas"/>
+        <TopLine Value="130"/>
+        <CursorPos Y="167"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit94>
+      <Unit95>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-image/src/fpreadjpeg.pas"/>
+        <UnitName Value="FPReadJPEG"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="427"/>
+        <CursorPos X="39" Y="48"/>
+        <UsageCount Value="10"/>
+      </Unit95>
+      <Unit96>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-image/src/fpimage.pp"/>
+        <UnitName Value="FPimage"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="176"/>
+        <CursorPos X="17" Y="196"/>
+        <UsageCount Value="10"/>
+      </Unit96>
+      <Unit97>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/pasjpeg/src/jpeglib.pas"/>
+        <UnitName Value="JPEGLib"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1159"/>
+        <UsageCount Value="10"/>
+      </Unit97>
+      <Unit98>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/pasjpeg/src/jdatasrc.pas"/>
+        <UnitName Value="JDataSrc"/>
+        <TopLine Value="173"/>
+        <UsageCount Value="9"/>
+      </Unit98>
+      <Unit99>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/pasjpeg/src/jdapistd.pas"/>
+        <UnitName Value="JdAPIstd"/>
+        <CursorPos X="5" Y="26"/>
+        <UsageCount Value="9"/>
+      </Unit99>
+      <Unit100>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/pasjpeg/src/jconfig.inc"/>
+        <TopLine Value="50"/>
+        <UsageCount Value="9"/>
+      </Unit100>
+      <Unit101>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/pasjpeg/src/jdmaster.pas"/>
+        <UnitName Value="JdMaster"/>
+        <UsageCount Value="9"/>
+      </Unit101>
+      <Unit102>
+        <Filename Value="../dmw/Img_x.pas"/>
+        <TopLine Value="508"/>
+        <CursorPos X="16" Y="552"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit102>
+      <Unit103>
+        <Filename Value="../dmw/img_x.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="504"/>
+        <CursorPos X="19" Y="519"/>
+        <UsageCount Value="18"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit103>
+      <Unit104>
+        <Filename Value="../dmw/xpens1.pas"/>
+        <TopLine Value="429"/>
+        <CursorPos X="14" Y="456"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit104>
+      <Unit105>
+        <Filename Value="../dmw/xlzw.pas"/>
+        <TopLine Value="508"/>
+        <CursorPos X="25" Y="536"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit105>
+      <Unit106>
+        <Filename Value="../dmw/xlist1.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="694"/>
+        <CursorPos Y="722"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit106>
+      <Unit107>
+        <Filename Value="../dmw/xlist.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1094"/>
+        <CursorPos Y="1124"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit107>
+      <Unit108>
+        <Filename Value="../dmw/img_ijl.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="6"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit108>
+      <Unit109>
+        <Filename Value="../dmw/pmath.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="709"/>
+        <CursorPos X="28" Y="737"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit109>
+      <Unit110>
+        <Filename Value="../dmw/use_lnk.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="26" Y="230"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit110>
+      <Unit111>
+        <Filename Value="../dmw/use_sas.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="491"/>
+        <CursorPos X="28" Y="519"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit111>
+      <Unit112>
+        <Filename Value="../dmw/xintf1.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="28" Y="132"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit112>
+      <Unit113>
+        <Filename Value="../dmw/xproj.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="465"/>
+        <CursorPos X="28" Y="494"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit113>
+      <Unit114>
+        <Filename Value="../dmw/ijl.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit114>
+      <Unit115>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="251"/>
+        <CursorPos Y="292"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <IsVisibleTab Value="True"/>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="1"/>
+          <CursorPos X="56" Y="273"/>
+        </ExtraEditor1>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit115>
+      <Unit116>
+        <Filename Value="../dmw/xbmp.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="12"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit116>
+      <Unit117>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/libpng/src/png.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="12"/>
+      </Unit117>
+      <Unit118>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/zlib/src/zlib.pp"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos X="39" Y="84"/>
+        <UsageCount Value="10"/>
+      </Unit118>
+      <Unit119>
+        <Filename Value="/usr/lib64/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1278"/>
+        <CursorPos X="20" Y="1278"/>
+        <UsageCount Value="10"/>
+      </Unit119>
+      <Unit120>
+        <Filename Value="../dmw/idmw.pas"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="74"/>
+        <CursorPos Y="114"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit120>
+      <Unit121>
+        <Filename Value="../dmw/dmw_link.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="740"/>
+        <CursorPos Y="783"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit121>
+      <Unit122>
+        <Filename Value="../dmw/tri_link.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="201"/>
+        <CursorPos X="3" Y="213"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit122>
+      <Unit123>
+        <Filename Value="../dmw/xplot.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="576"/>
+        <CursorPos Y="613"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit123>
+      <Unit124>
+        <Filename Value="../dmw/xctx.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="200"/>
+        <CursorPos Y="228"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit124>
+      <Unit125>
+        <Filename Value="../../temp/a1.json"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit125>
+      <Unit126>
+        <Filename Value="../dmw/xline.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="769"/>
+        <CursorPos Y="798"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit126>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4327" TopLine="4300"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4329" TopLine="4300"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4330" TopLine="4300"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4332" TopLine="4300"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4334" TopLine="4300"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4346" TopLine="4306"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4349" TopLine="4309"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4350" TopLine="4310"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4353" TopLine="4313"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4356" TopLine="4316"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4358" TopLine="4318"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4360" TopLine="4320"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4362" TopLine="4322"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4366" TopLine="4326"/>
+      </Position14>
+      <Position15>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4371" TopLine="4331"/>
+      </Position15>
+      <Position16>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4377" TopLine="4337"/>
+      </Position16>
+      <Position17>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4378" TopLine="4338"/>
+      </Position17>
+      <Position18>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4381" TopLine="4338"/>
+      </Position18>
+      <Position19>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="4382" TopLine="4342"/>
+      </Position19>
+      <Position20>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="9368" TopLine="9343"/>
+      </Position20>
+      <Position21>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="9370" TopLine="9343"/>
+      </Position21>
+      <Position22>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="9373" TopLine="9343"/>
+      </Position22>
+      <Position23>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="280" TopLine="245"/>
+      </Position23>
+      <Position24>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="281" TopLine="245"/>
+      </Position24>
+      <Position25>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="282" TopLine="245"/>
+      </Position25>
+      <Position26>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="284" TopLine="245"/>
+      </Position26>
+      <Position27>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="288" TopLine="247"/>
+      </Position27>
+      <Position28>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="289" TopLine="248"/>
+      </Position28>
+      <Position29>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="288" TopLine="248"/>
+      </Position29>
+      <Position30>
+        <Filename Value="../dmw/prj_com.pas"/>
+        <Caret Line="291" TopLine="250"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="tstu6.pas"/>
+        <Line Value="671"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="fBrush.Color"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item1>
+      <Item2>
+        <Expression Value="sizeof(a)"/>
+      </Item2>
+      <Item3>
+        <Expression Value="c"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>

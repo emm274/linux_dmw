@@ -1,0 +1,983 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="94">
+      <Unit0>
+        <Filename Value="tst3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="tst3"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="17"/>
+        <UsageCount Value="184"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="tstu3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DfmTst3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="tstu3"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="395"/>
+        <CursorPos X="1" Y="408"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <TopLine Value="650"/>
+          <CursorPos X="1" Y="678"/>
+        </ExtraEditor1>
+        <UsageCount Value="184"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/lib/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2698"/>
+        <CursorPos X="9" Y="2716"/>
+        <UsageCount Value="75"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpimage.pp"/>
+        <UnitName Value="FPimage"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="527"/>
+        <CursorPos X="11" Y="554"/>
+        <UsageCount Value="17"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpcompactimg.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="69" Y="3"/>
+        <UsageCount Value="14"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/lazarus/lcl/intfgraphics.pas"/>
+        <UnitName Value="IntfGraphics"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="16"/>
+        <CursorPos X="38" Y="22"/>
+        <UsageCount Value="19"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/lib/lazarus/lcl/graphtype.pp"/>
+        <UnitName Value="GraphType"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="101"/>
+        <CursorPos X="3" Y="113"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="1"/>
+          <CursorPos X="41" Y="237"/>
+        </ExtraEditor1>
+        <UsageCount Value="78"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../dmw/xdc.pas"/>
+        <UnitName Value="xdc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="9"/>
+        <CursorPos X="49" Y="31"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="1"/>
+          <TopLine Value="20"/>
+          <CursorPos X="1" Y="38"/>
+        </ExtraEditor1>
+        <UsageCount Value="25"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../dmw/Windows.pas"/>
+        <UnitName Value="Windows"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="6" Y="4"/>
+        <UsageCount Value="26"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/sysutils.pp"/>
+        <UnitName Value="sysutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../dmw/xini.pas"/>
+        <UnitName Value="xini"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/lib/lazarus/lcl/lazcanvas.pas"/>
+        <UnitName Value="lazcanvas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="28" Y="44"/>
+        <UsageCount Value="14"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpcanvas.pp"/>
+        <UnitName Value="FPCanvas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="343"/>
+        <CursorPos X="60" Y="324"/>
+        <UsageCount Value="63"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpimgcanv.pp"/>
+        <UnitName Value="FPImgCanv"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/types.pp"/>
+        <UnitName Value="types"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="79"/>
+        <CursorPos X="35" Y="16"/>
+        <UsageCount Value="9"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/lib/lazarus/lcl/lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="49"/>
+        <CursorPos X="9" Y="64"/>
+        <UsageCount Value="78"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/unix.pp"/>
+        <UnitName Value="Unix"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="121"/>
+        <CursorPos X="34" Y="17"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../dmw/OTypes.pas"/>
+        <UnitName Value="OTypes"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="154"/>
+        <CursorPos X="1" Y="188"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="1465"/>
+          <CursorPos X="1" Y="1485"/>
+        </ExtraEditor1>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/lib/lazarus/lcl/include/brush.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="24"/>
+        <CursorPos X="1" Y="46"/>
+        <UsageCount Value="13"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/lib/lazarus/lcl/include/canvas.inc"/>
+        <TopLine Value="1519"/>
+        <CursorPos X="68" Y="1556"/>
+        <UsageCount Value="25"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/lib/lazarus/lcl/include/winapi.inc"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="635"/>
+        <CursorPos X="1" Y="653"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="491"/>
+          <CursorPos X="1" Y="512"/>
+        </ExtraEditor1>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/lib/lazarus/lcl/include/custombitmap.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="476"/>
+        <CursorPos X="57" Y="514"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="424"/>
+          <CursorPos X="1" Y="446"/>
+        </ExtraEditor1>
+        <UsageCount Value="13"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/usr/lib/lazarus/lcl/include/rasterimage.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="804"/>
+        <CursorPos X="1" Y="828"/>
+        <UsageCount Value="18"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2winapi.inc"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="9479"/>
+        <CursorPos X="1" Y="9499"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2proc.pp"/>
+        <UnitName Value="Gtk2Proc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="2"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/usr/lib/lazarus/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="844"/>
+        <CursorPos X="1" Y="865"/>
+        <UsageCount Value="62"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/lib/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="310"/>
+        <CursorPos X="5" Y="328"/>
+        <UsageCount Value="69"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/usr/lib/lazarus/lcl/include/lclintf.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="18" Y="39"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="1"/>
+          <TopLine Value="132"/>
+          <CursorPos X="1" Y="155"/>
+        </ExtraEditor1>
+        <UsageCount Value="29"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2lclintf.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="448"/>
+        <CursorPos X="7" Y="485"/>
+        <UsageCount Value="20"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2proc.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="73" Y="6"/>
+        <UsageCount Value="2"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="/usr/lib/lazarus/lcl/include/lclintfh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="61"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="/usr/lib/lazarus/lcl/include/winapih.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="39"/>
+        <CursorPos X="20" Y="39"/>
+        <UsageCount Value="66"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="/usr/lib/lazarus/lcl/include/intfbasewinapi.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="1" Y="2072"/>
+        <UsageCount Value="19"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="/usr/lib/lazarus/lcl/include/bitmapcanvas.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="28"/>
+        <CursorPos X="1" Y="60"/>
+        <UsageCount Value="13"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="../dmw/XPens.pas"/>
+        <UnitName Value="XPens"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="870"/>
+        <CursorPos X="48" Y="892"/>
+        <UsageCount Value="52"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="../dmw/XGdi.pas"/>
+        <UnitName Value="xgdi"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="45" Y="23"/>
+        <UsageCount Value="51"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="../dmw/XLine.pas"/>
+        <UnitName Value="XLine"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1"/>
+        <CursorPos X="23" Y="4"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpcanvas.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="204"/>
+        <CursorPos X="43" Y="238"/>
+        <UsageCount Value="55"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="../dmw/xddw.pas"/>
+        <UnitName Value="xddw"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="55" Y="64"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="575"/>
+          <CursorPos X="49" Y="597"/>
+        </ExtraEditor1>
+        <UsageCount Value="50"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="../dmw/xdib.pas"/>
+        <UnitName Value="xdib"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2207"/>
+        <CursorPos X="37" Y="2233"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="0"/>
+          <TopLine Value="3050"/>
+          <CursorPos X="12" Y="3077"/>
+        </ExtraEditor1>
+        <UsageCount Value="55"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="../dmw/img_x.pas"/>
+        <UnitName Value="img_x"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="403"/>
+        <CursorPos X="1" Y="425"/>
+        <UsageCount Value="48"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="../dmw/ivg.pas"/>
+        <UnitName Value="ivg"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="14" Y="5"/>
+        <UsageCount Value="44"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="../Graphics32/GR32.pas"/>
+        <UnitName Value="GR32"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="5556"/>
+        <CursorPos X="1" Y="5586"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="1"/>
+          <TopLine Value="688"/>
+          <CursorPos X="9" Y="43"/>
+        </ExtraEditor1>
+        <UsageCount Value="36"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="../Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <UnitName Value="GR32_Backends_LCL_Gtk"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="528"/>
+        <CursorPos X="1" Y="537"/>
+        <UsageCount Value="36"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="../Graphics32/GR32_Backends.pas"/>
+        <UnitName Value="GR32_Backends"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="47" Y="104"/>
+        <UsageCount Value="28"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="../Graphics32/GR32.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="150"/>
+        <CursorPos X="13" Y="36"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="../Graphics32/GR32_Containers.pas"/>
+        <UnitName Value="GR32_Containers"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="../Graphics32/GR32_Image.pas"/>
+        <UnitName Value="GR32_Image"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="../Graphics32/GR32_LowLevel.pas"/>
+        <UnitName Value="GR32_LowLevel"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1067"/>
+        <CursorPos X="1" Y="1096"/>
+        <UsageCount Value="26"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="/usr/lib/lazarus/lcl/include/sysenvapis.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="7"/>
+      </Unit49>
+      <Unit50>
+        <Filename Value="/usr/lib/lazarus/lcl/include/sysenvapis_unix.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="7"/>
+      </Unit50>
+      <Unit51>
+        <Filename Value="/usr/lib/lazarus/lcl/interfacebase.pp"/>
+        <UnitName Value="InterfaceBase"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="299"/>
+        <CursorPos X="12" Y="337"/>
+        <UsageCount Value="27"/>
+      </Unit51>
+      <Unit52>
+        <Filename Value="/usr/lib/lazarus/lcl/include/interfacebase.inc"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="1"/>
+        <CursorPos X="47" Y="27"/>
+        <UsageCount Value="19"/>
+      </Unit52>
+      <Unit53>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2int.pas"/>
+        <UnitName Value="Gtk2Int"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="25"/>
+        <CursorPos X="17" Y="56"/>
+        <UsageCount Value="30"/>
+      </Unit53>
+      <Unit54>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2devicecontext.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="894"/>
+        <CursorPos X="1" Y="917"/>
+        <UsageCount Value="31"/>
+      </Unit54>
+      <Unit55>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="58" Y="18"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <WindowIndex Value="1"/>
+          <TopLine Value="2716"/>
+          <CursorPos X="20" Y="2733"/>
+        </ExtraEditor1>
+        <UsageCount Value="26"/>
+      </Unit55>
+      <Unit56>
+        <Filename Value="/usr/lib/lazarus/lcl/dynhasharray.pp"/>
+        <UnitName Value="DynHashArray"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="599"/>
+        <CursorPos X="1" Y="619"/>
+        <UsageCount Value="25"/>
+      </Unit56>
+      <Unit57>
+        <Filename Value="../Graphics32/GR32_Compiler.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit57>
+      <Unit58>
+        <Filename Value="/usr/lib/lazarus/lcl/include/graphic.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="19" Y="1"/>
+        <UsageCount Value="12"/>
+      </Unit58>
+      <Unit59>
+        <Filename Value="/usr/lib/lazarus/lcl/include/sharedcustombitmap.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="15"/>
+        <CursorPos X="1" Y="37"/>
+        <UsageCount Value="12"/>
+      </Unit59>
+      <Unit60>
+        <Filename Value="/usr/lib/lazarus/lcl/include/sharedrasterimage.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6"/>
+        <CursorPos X="1" Y="42"/>
+        <UsageCount Value="12"/>
+      </Unit60>
+      <Unit61>
+        <Filename Value="/usr/lib/lazarus/lcl/include/wincontrol.inc"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="5716"/>
+        <CursorPos X="28" Y="5748"/>
+        <UsageCount Value="20"/>
+      </Unit61>
+      <Unit62>
+        <Filename Value="/usr/lib/lazarus/lcl/include/customcontrol.inc"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="97"/>
+        <CursorPos X="1" Y="113"/>
+        <UsageCount Value="14"/>
+      </Unit62>
+      <Unit63>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2def.pp"/>
+        <UnitName Value="Gtk2Def"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="226"/>
+        <CursorPos X="44" Y="159"/>
+        <UsageCount Value="20"/>
+      </Unit63>
+      <Unit64>
+        <Filename Value="../dmw/dmw_obj.pas"/>
+        <UnitName Value="dmw_obj"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit64>
+      <Unit65>
+        <Filename Value="../Graphics32/GR32_Polygons.pas"/>
+        <UnitName Value="GR32_Polygons"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1457"/>
+        <CursorPos X="20" Y="1462"/>
+        <UsageCount Value="25"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit65>
+      <Unit66>
+        <Filename Value="../dmw/ximages.pas"/>
+        <UnitName Value="ximages"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="1" Y="44"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit66>
+      <Unit67>
+        <Filename Value="../dmw/xwin.pas"/>
+        <UnitName Value="xwin"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="8"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit67>
+      <Unit68>
+        <Filename Value="/usr/share/fpcsrc/rtl/linux/linux.pp"/>
+        <UnitName Value="Linux"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="325"/>
+        <CursorPos X="67" Y="445"/>
+        <UsageCount Value="9"/>
+      </Unit68>
+      <Unit69>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/unixtype.pp"/>
+        <UnitName Value="unixtype"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit69>
+      <Unit70>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/baseunix.pp"/>
+        <UnitName Value="BaseUnix"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit70>
+      <Unit71>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/classes.pp"/>
+        <UnitName Value="Classes"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="9" Y="36"/>
+        <UsageCount Value="9"/>
+      </Unit71>
+      <Unit72>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit72>
+      <Unit73>
+        <Filename Value="/usr/share/fpcsrc/rtl/linux/ptypes.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="106"/>
+        <CursorPos X="12" Y="141"/>
+        <UsageCount Value="9"/>
+      </Unit73>
+      <Unit74>
+        <Filename Value="/usr/share/fpcsrc/rtl/linux/system.pp"/>
+        <UnitName Value="System"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+      </Unit74>
+      <Unit75>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/dateutil.pp"/>
+        <UnitName Value="dateutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="9" Y="1"/>
+        <UsageCount Value="8"/>
+      </Unit75>
+      <Unit76>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/dateutil.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="51" Y="18"/>
+        <UsageCount Value="8"/>
+      </Unit76>
+      <Unit77>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2defines.inc"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="58"/>
+        <CursorPos X="78" Y="37"/>
+        <UsageCount Value="8"/>
+      </Unit77>
+      <Unit78>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2winapiwindow.pp"/>
+        <UnitName Value="Gtk2WinapiWindow"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="139"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+      </Unit78>
+      <Unit79>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk2x11/gdk2x.pas"/>
+        <UnitName Value="gdk2x"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit79>
+      <Unit80>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/gtk2msgqueue.pp"/>
+        <UnitName Value="Gtk2MsgQueue"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="79"/>
+        <CursorPos X="54" Y="33"/>
+        <UsageCount Value="14"/>
+      </Unit80>
+      <Unit81>
+        <Filename Value="/usr/lib/lazarus/lcl/maps.pp"/>
+        <UnitName Value="maps"/>
+        <WindowIndex Value="2"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+      </Unit81>
+      <Unit82>
+        <Filename Value="/usr/lib/lazarus/lcl/nonwin32/messages.pp"/>
+        <UnitName Value="Messages"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="68"/>
+        <CursorPos X="25" Y="35"/>
+        <UsageCount Value="8"/>
+      </Unit82>
+      <Unit83>
+        <Filename Value="/usr/lib/lazarus/lcl/lmessages.pp"/>
+        <UnitName Value="LMessages"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="184"/>
+        <CursorPos X="11" Y="216"/>
+        <UsageCount Value="14"/>
+      </Unit83>
+      <Unit84>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk+/gdk-pixbuf/gdk2pixbuf.pas"/>
+        <UnitName Value="gdk2pixbuf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="260"/>
+        <CursorPos X="48" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit84>
+      <Unit85>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-image/src/fpimage.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="304"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit85>
+      <Unit86>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk+/gdk/gdk2.pas"/>
+        <UnitName Value="gdk2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="73"/>
+        <CursorPos X="16" Y="95"/>
+        <UsageCount Value="11"/>
+      </Unit86>
+      <Unit87>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/glib/glib2.pas"/>
+        <UnitName Value="glib2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit87>
+      <Unit88>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk+/gtk/gtk2.pas"/>
+        <UnitName Value="gtk2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit88>
+      <Unit89>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk+/gdk/gdkincludes.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="16" Y="6"/>
+        <UsageCount Value="11"/>
+      </Unit89>
+      <Unit90>
+        <Filename Value="/usr/share/fpcsrc/packages/gtk2/src/gtk+/gdk/gdkdrawable.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="115"/>
+        <CursorPos X="24" Y="131"/>
+        <UsageCount Value="11"/>
+      </Unit90>
+      <Unit91>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <UnitName Value="GR32_Backends_LCL_Gtk"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="189"/>
+        <CursorPos X="1" Y="190"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <IsVisibleTab Value="True"/>
+          <EditorIndex Value="0"/>
+          <WindowIndex Value="1"/>
+          <TopLine Value="159"/>
+          <CursorPos X="8" Y="190"/>
+        </ExtraEditor1>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit91>
+      <Unit92>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <UnitName Value="GR32"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2079"/>
+        <CursorPos X="34" Y="2091"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit92>
+      <Unit93>
+        <Filename Value="../3dparty/Graphics32/GR32_LowLevel.pas"/>
+        <UnitName Value="GR32_LowLevel"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="936"/>
+        <CursorPos X="1" Y="961"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit93>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5417" Column="1" TopLine="5401"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5430" Column="1" TopLine="5403"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5418" Column="1" TopLine="5403"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5943" Column="1" TopLine="5928"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5944" Column="1" TopLine="5928"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5945" Column="1" TopLine="5928"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="556" Column="1" TopLine="540"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="558" Column="1" TopLine="540"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="559" Column="1" TopLine="540"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="560" Column="1" TopLine="540"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="563" Column="1" TopLine="540"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="569" Column="1" TopLine="542"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5946" Column="1" TopLine="5928"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5419" Column="1" TopLine="5402"/>
+      </Position14>
+      <Position15>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="5986" Column="1" TopLine="5971"/>
+      </Position15>
+      <Position16>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="6000" Column="1" TopLine="5983"/>
+      </Position16>
+      <Position17>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="6002" Column="1" TopLine="5983"/>
+      </Position17>
+      <Position18>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="6003" Column="1" TopLine="5983"/>
+      </Position18>
+      <Position19>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="6005" Column="1" TopLine="5983"/>
+      </Position19>
+      <Position20>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="6006" Column="1" TopLine="5983"/>
+      </Position20>
+      <Position21>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="178" Column="1" TopLine="162"/>
+      </Position21>
+      <Position22>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="180" Column="1" TopLine="162"/>
+      </Position22>
+      <Position23>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="181" Column="1" TopLine="162"/>
+      </Position23>
+      <Position24>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <Caret Line="189" Column="1" TopLine="168"/>
+      </Position24>
+      <Position25>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="935" Column="18" TopLine="902"/>
+      </Position25>
+      <Position26>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="938" Column="89" TopLine="903"/>
+      </Position26>
+      <Position27>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="1988" Column="8" TopLine="1953"/>
+      </Position27>
+      <Position28>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="2002" Column="39" TopLine="1968"/>
+      </Position28>
+      <Position29>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="2017" Column="52" TopLine="1983"/>
+      </Position29>
+      <Position30>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <Caret Line="2019" Column="39" TopLine="1985"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="Color"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item1>
+      <Item2>
+        <Expression Value="di^"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>

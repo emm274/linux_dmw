@@ -1,0 +1,9 @@
+// Проверка линковки lib_poly,lib_bl
+ldd tst6
+
+etc/ld.so.conf.d
+  emm.conf
+    /home/emm/neva/bin 
+
+обновить ld.so.cache 
+нужно вызвать ldconfig

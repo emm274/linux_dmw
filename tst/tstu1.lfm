@@ -1,0 +1,25 @@
+object DfmTstu1: TDfmTstu1
+  Left = 226
+  Height = 500
+  Top = 245
+  Width = 499
+  Caption = 'test1'
+  ClientHeight = 500
+  ClientWidth = 499
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '1.2.6.0'
+  object lbLog: TListBox
+    Left = 0
+    Height = 500
+    Top = 0
+    Width = 499
+    Align = alClient
+    ItemHeight = 0
+    OnMouseDown = lbLogMouseDown
+    ScrollWidth = 497
+    TabOrder = 0
+    TopIndex = -1
+  end
+end

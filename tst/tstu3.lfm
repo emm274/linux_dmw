@@ -1,0 +1,112 @@
+object DfmTst3: TDfmTst3
+  Left = 232
+  Height = 464
+  Top = 156
+  Width = 972
+  Caption = 'DfmTst3'
+  ClientHeight = 464
+  ClientWidth = 972
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnResize = FormResize
+  LCLVersion = '1.2.6.0'
+  object paCard1: TPanel
+    Left = 0
+    Height = 266
+    Top = 42
+    Width = 336
+    Align = alLeft
+    BevelOuter = bvLowered
+    ClientHeight = 266
+    ClientWidth = 336
+    TabOrder = 0
+    object pbCard1: TPaintBox
+      Left = 1
+      Height = 264
+      Top = 1
+      Width = 334
+      Align = alClient
+      OnClick = pbCard1Click
+      OnPaint = pbCard1Paint
+    end
+  end
+  object lbLog: TListBox
+    Left = 0
+    Height = 151
+    Top = 313
+    Width = 972
+    Align = alBottom
+    ItemHeight = 0
+    OnClick = lbLogClick
+    ScrollWidth = 970
+    TabOrder = 1
+    TopIndex = -1
+  end
+  object Splitter1: TSplitter
+    Cursor = crVSplit
+    Left = 0
+    Height = 5
+    Top = 308
+    Width = 972
+    Align = alBottom
+    ResizeAnchor = akBottom
+  end
+  object paCard2: TPanel
+    Left = 336
+    Height = 266
+    Top = 42
+    Width = 344
+    Align = alClient
+    BevelOuter = bvLowered
+    ClientHeight = 266
+    ClientWidth = 344
+    TabOrder = 3
+    object pbCard2: TPaintBox
+      Left = 1
+      Height = 264
+      Top = 1
+      Width = 342
+      Align = alClient
+      OnClick = pbCard1Click
+      OnPaint = pbCard2Paint
+    end
+  end
+  object paTop: TPanel
+    Left = 0
+    Height = 42
+    Top = 0
+    Width = 972
+    Align = alTop
+    ClientHeight = 42
+    ClientWidth = 972
+    TabOrder = 4
+    object btTest: TButton
+      Left = 8
+      Height = 25
+      Top = 8
+      Width = 75
+      Caption = 'test'
+      OnClick = btTestClick
+      TabOrder = 0
+    end
+  end
+  object paCard3: TPanel
+    Left = 680
+    Height = 266
+    Top = 42
+    Width = 292
+    Align = alRight
+    BevelOuter = bvLowered
+    ClientHeight = 266
+    ClientWidth = 292
+    TabOrder = 5
+    object pbCard3: TPaintBox
+      Left = 1
+      Height = 260
+      Top = 1
+      Width = 286
+      Align = alClient
+      OnPaint = pbCard3Paint
+    end
+  end
+end

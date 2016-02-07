@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1315660550 source:/home/emm/tol/c/zlib/adler32.c
+	"zutil.h"
+
+1330726800 /home/emm/tol/c/zlib/zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1335982354 /home/emm/tol/c/zlib/zlib.h
+	"zconf.h"
+
+1335705492 /home/emm/tol/c/zlib/zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1335705492 source:/home/emm/tol/c/zlib/crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1335705492 /home/emm/tol/c/zlib/crc32.h
+
+1329056146 source:/home/emm/tol/c/zlib/deflate.c
+	"deflate.h"
+
+1326484480 /home/emm/tol/c/zlib/deflate.h
+	"zutil.h"
+
+1271614582 source:/home/emm/tol/c/zlib/inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1271614526 /home/emm/tol/c/zlib/inftrees.h
+
+1261751528 /home/emm/tol/c/zlib/inflate.h
+
+1271614560 /home/emm/tol/c/zlib/inffast.h
+
+1329049232 source:/home/emm/tol/c/zlib/inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1317835952 /home/emm/tol/c/zlib/inffixed.h
+
+1329056146 source:/home/emm/tol/c/zlib/inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1325938082 source:/home/emm/tol/c/zlib/trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1271575958 /home/emm/tol/c/zlib/trees.h
+
+1329049232 source:/home/emm/tol/c/zlib/zutil.c
+	"zutil.h"
+	"gzguts.h"
+
+1332009900 /home/emm/tol/c/zlib/gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1426244142 source:/home/emm/tol/c/zlib/dll_zlb.cpp
+	<string.h>
+	"zlib.h"
+

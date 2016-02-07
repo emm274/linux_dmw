@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1428338173 source:/home/emm/tol/c/test_dll_prj/main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<dlfcn.h>
+	"use_prj.h"
+
+1428339380 /home/emm/tol/c/test_dll_prj/use_prj.h
+	<inttypes.h>
+

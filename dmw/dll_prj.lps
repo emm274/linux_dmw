@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="dll_prj.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="7" Y="7"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ofiles.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="805"/>
+        <CursorPos X="10" Y="830"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="otypes.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1219"/>
+        <CursorPos X="18" Y="1239"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="prj_com.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="295"/>
+        <CursorPos Y="317"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="dmw_prj.pas"/>
+        <TopLine Value="5930"/>
+        <CursorPos X="63" Y="5407"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/gtk2/interfaces.pas"/>
+        <UnitName Value="Interfaces"/>
+        <CursorPos X="10" Y="26"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="xlog.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="64" Y="20"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="ofiles1.pas"/>
+        <CursorPos X="23" Y="39"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="xdib32.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="23" Y="6"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="idmw.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="55" Y="56"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/lib/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <TopLine Value="1216"/>
+        <CursorPos Y="1262"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../3dparty/Graphics32/GR32.pas"/>
+        <CursorPos X="20" Y="2"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../3dparty/Graphics32/GR32_System.pas"/>
+        <TopLine Value="133"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Carbon.pas"/>
+        <CursorPos X="50" Y="259"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../3dparty/Graphics32/GR32.inc"/>
+        <TopLine Value="110"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../3dparty/Graphics32/GR32_LowLevel.pas"/>
+        <CursorPos X="34" Y="22"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_Generic.pas"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends.pas"/>
+        <TopLine Value="97"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="465"/>
+        <CursorPos X="31" Y="484"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../3dparty/Graphics32/GR32_Backends_LCL_Gtk.pas"/>
+        <TopLine Value="19"/>
+        <CursorPos X="9" Y="44"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="xddw.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="30" Y="116"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="img_x.pas"/>
+        <TopLine Value="374"/>
+        <CursorPos X="20" Y="416"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="xbmp.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="12"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/usr/lib64/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <TopLine Value="1224"/>
+        <CursorPos X="22" Y="1259"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="dmw_idc.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="808"/>
+        <CursorPos X="26" Y="831"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="xbl.pas"/>
+        <TopLine Value="2424"/>
+        <CursorPos X="59" Y="2455"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/libpng/src/png.pp"/>
+        <CursorPos X="34" Y="27"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="png.pp"/>
+        <CursorPos X="43" Y="8"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="64" Column="21" TopLine="46"/>
+      </Position1>
+      <Position2>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="195" Column="21" TopLine="160"/>
+      </Position2>
+      <Position3>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="358" Column="45" TopLine="311"/>
+      </Position3>
+      <Position4>
+        <Filename Value="dll_prj.lpr"/>
+        <Caret Line="34" Column="17"/>
+      </Position4>
+      <Position5>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="69" Column="14" TopLine="43"/>
+      </Position5>
+      <Position6>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="15" Column="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="prj_com.pas"/>
+        <Caret Line="40" Column="19" TopLine="16"/>
+      </Position7>
+      <Position8>
+        <Filename Value="otypes.pas"/>
+        <Caret Line="584" Column="53" TopLine="555"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="9062" Column="27" TopLine="9043"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../dmd/dm_draw.pas"/>
+        <Caret Line="486" Column="29" TopLine="467"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="prj_com.pas"/>
+        <Line Value="317"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
